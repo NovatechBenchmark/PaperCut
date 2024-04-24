@@ -1,0 +1,48 @@
+body {
+    
+}
+
+.container {
+    margin-top: 3em;
+
+}
+
+a {
+    text-decoration: none;
+    color: #00af5c;
+}
+a:hover {
+    color: #00af5c;
+}
+
+.link-bi {
+    text-decoration: none;
+    color: black;
+}
+.spanlink:hover {
+    text-decoration: underline;
+    color: #00af5c;
+}
+
+
+.bg-red {
+    background-color: aqua;
+    border: 10px solid green;
+}
+
+#logo-papercut {
+    height:70px;
+    margin-top: 10px;
+}
+#logo-benchmark {
+
+}
+
+.spacer {
+    height: 2em;
+}
+
+.primary-logo {
+    font-size: 72pt;
+    color: #8f8f8f;
+}
